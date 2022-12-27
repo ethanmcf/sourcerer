@@ -1,0 +1,1032 @@
+('C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer Executable\\',
+ None,
+ [],
+ 'DATA',
+ [('sourcerer.kv',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\sourcerer.kv',
+   'DATA'),
+  ('sourcerer.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\sourcerer.py',
+   'DATA'),
+  ('sourcerer.spec',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\sourcerer.spec',
+   'DATA'),
+  ('__pycache__\\sourcerer.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\__pycache__\\sourcerer.cpython-39.pyc',
+   'DATA'),
+  ('images\\wizard.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\images\\wizard.png',
+   'DATA'),
+  ('images\\wizard_pressed.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\images\\wizard_pressed.png',
+   'DATA'),
+  ('dist\\sourcerer\\base_library.zip',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\base_library.zip',
+   'DATA'),
+  ('dist\\sourcerer\\glew32.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\glew32.dll',
+   'DATA'),
+  ('dist\\sourcerer\\libcrypto-1_1.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\libcrypto-1_1.dll',
+   'DATA'),
+  ('dist\\sourcerer\\libffi-7.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\libffi-7.dll',
+   'DATA'),
+  ('dist\\sourcerer\\libfreetype-6.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\libfreetype-6.dll',
+   'DATA'),
+  ('dist\\sourcerer\\libssl-1_1.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\libssl-1_1.dll',
+   'DATA'),
+  ('dist\\sourcerer\\mfc140u.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\mfc140u.dll',
+   'DATA'),
+  ('dist\\sourcerer\\pyexpat.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\python39.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\python39.dll',
+   'DATA'),
+  ('dist\\sourcerer\\pythoncom39.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\pythoncom39.dll',
+   'DATA'),
+  ('dist\\sourcerer\\pywintypes39.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\pywintypes39.dll',
+   'DATA'),
+  ('dist\\sourcerer\\SDL2.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\SDL2.dll',
+   'DATA'),
+  ('dist\\sourcerer\\SDL2_image.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\SDL2_image.dll',
+   'DATA'),
+  ('dist\\sourcerer\\SDL2_mixer.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\SDL2_mixer.dll',
+   'DATA'),
+  ('dist\\sourcerer\\SDL2_ttf.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\SDL2_ttf.dll',
+   'DATA'),
+  ('dist\\sourcerer\\select.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\select.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\sourcerer.exe',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\sourcerer.exe',
+   'DATA'),
+  ('dist\\sourcerer\\sourcerer.exe.manifest',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\sourcerer.exe.manifest',
+   'DATA'),
+  ('dist\\sourcerer\\unicodedata.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\VCRUNTIME140.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\sourcerer\\win32api.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\win32api.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\win32file.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\win32file.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\win32gui.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\win32gui.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\win32trace.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\win32trace.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\win32ui.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\win32ui.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\zlib1.dll',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\zlib1.dll',
+   'DATA'),
+  ('dist\\sourcerer\\_asyncio.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_bz2.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_bz2.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_ctypes.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_decimal.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_decimal.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_elementtree.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_elementtree.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_hashlib.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_lzma.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_lzma.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_multiprocessing.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_overlapped.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_queue.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_queue.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_socket.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_socket.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_ssl.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_ssl.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_uuid.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_uuid.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\_win32sysloader.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\_win32sysloader.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\win32com\\shell\\shell.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\win32com\\shell\\shell.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\PIL\\_imaging.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\PIL\\_imaging.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\PIL\\_imagingft.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\PIL\\_imagingft.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\PIL\\_webp.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\PIL\\_webp.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\builder.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\builder.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\etree.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\etree.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\objectify.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\objectify.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\sax.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\sax.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\_elementpath.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\_elementpath.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\html\\clean.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\html\\clean.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\lxml\\html\\diff.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\lxml\\html\\diff.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\console.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\console.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\cursor.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\cursor.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\inspector.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\inspector.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\joycursor.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\joycursor.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\keybinding.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\keybinding.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\monitor.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\monitor.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\recorder.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\recorder.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\screen.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\screen.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\showborder.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\showborder.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\touchring.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\touchring.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\webdebugger.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\webdebugger.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\_webdebugger.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\_webdebugger.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__init__.py',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__init__.py',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\settings_kivy.json',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\settings_kivy.json',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\style.kv',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\style.kv',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\keyboards\\azerty.json',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\keyboards\\de.json',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\keyboards\\de.json',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\keyboards\\de_CH.json',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\keyboards\\en_US.json',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\keyboards\\qwerty.json',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\keyboards\\qwertz.json',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\images\\background.jpg',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\images\\background.jpg',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\images\\cursor.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\images\\cursor.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\images\\defaultshape.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\images\\image-loading.gif',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\images\\image-loading.zip',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\images\\testpattern.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\images\\testpattern.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\glsl\\default.fs',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\glsl\\default.fs',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\glsl\\default.png',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\glsl\\default.png',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\glsl\\default.vs',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\glsl\\default.vs',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\glsl\\header.fs',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\glsl\\header.fs',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\glsl\\header.vs',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\glsl\\header.vs',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('dist\\sourcerer\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\properties.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\properties.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\_clock.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\_clock.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\_event.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\_event.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\pep_html\\pep.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\pep_html\\template.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\odf_odt\\styles.odt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\latex2e\\default.tex',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\latex2e\\docutils.sty',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\latex2e\\titlepage.tex',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\latex2e\\xelatex.tex',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\html5_polyglot\\math.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\html5_polyglot\\plain.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\html5_polyglot\\template.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\html4css1\\html4css1.css',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\writers\\html4css1\\template.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\README.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('dist\\sourcerer\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('dist\\sourcerer\\certifi\\cacert.pem',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\dist\\sourcerer\\certifi\\cacert.pem',
+   'DATA'),
+  ('build\\sourcerer\\Analysis-00.toc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\Analysis-00.toc',
+   'DATA'),
+  ('build\\sourcerer\\base_library.zip',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\base_library.zip',
+   'DATA'),
+  ('build\\sourcerer\\COLLECT-00.toc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\COLLECT-00.toc',
+   'DATA'),
+  ('build\\sourcerer\\EXE-00.toc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\EXE-00.toc',
+   'DATA'),
+  ('build\\sourcerer\\PKG-00.pkg',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\PKG-00.pkg',
+   'DATA'),
+  ('build\\sourcerer\\PKG-00.toc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\PKG-00.toc',
+   'DATA'),
+  ('build\\sourcerer\\PYZ-00.pyz',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\sourcerer\\PYZ-00.toc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\PYZ-00.toc',
+   'DATA'),
+  ('build\\sourcerer\\sourcerer.exe',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\sourcerer.exe',
+   'DATA'),
+  ('build\\sourcerer\\sourcerer.exe.manifest',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\sourcerer.exe.manifest',
+   'DATA'),
+  ('build\\sourcerer\\Tree-00.toc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\Tree-00.toc',
+   'DATA'),
+  ('build\\sourcerer\\Tree-01.toc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\Tree-01.toc',
+   'DATA'),
+  ('build\\sourcerer\\Tree-02.toc',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\Tree-02.toc',
+   'DATA'),
+  ('build\\sourcerer\\warn-sourcerer.txt',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\warn-sourcerer.txt',
+   'DATA'),
+  ('build\\sourcerer\\xref-sourcerer.html',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\xref-sourcerer.html',
+   'DATA')])

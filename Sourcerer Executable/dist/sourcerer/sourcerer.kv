@@ -1,0 +1,148 @@
+#:import utils kivy.utils
+
+<InputScreen>
+    name: "input"
+    doc:doc
+    GridLayout:
+        rows: 3
+        spacing: 10
+        size: root.width *.8, root.height *.8 
+        center: root.width/2, root.height/2 
+        
+        Label:
+            markup: True
+            text:"[font=impact]The Sourcerer[/font]\n"
+            font_size: 50
+            color: 189/255, 115/255, 240/255
+            bold: True
+            italic: True
+            outline_color: (1,1,1,1)
+            outline_width: 2
+
+        TextInput:
+            id:doc
+            multiline: True
+            hint_text: "Copy and Paste Document"
+            pos_hint: {'x':.5,"top":.5}
+            size_hint: root.width*.6,root.height *.6
+            color: 0,0,0,0
+            font_size: 12
+            auto_indent: True
+
+        GridLayout:
+            cols:3
+            Label: 
+                markup: True
+                id: mla
+                text: "\n\n[font=impact]MLA Citation[/font]"
+                bold: True
+                font_size: 23
+                outline_color: 1,1,1,1
+                outline_width: 2
+                pos_hint: .2,.5
+                color: 189/255, 115/255, 240/255
+                background_color: 0,0,0,0
+                size: 0.5,0.5
+                pos_hint: {"y":.5}
+                CheckBox:
+                    color: 0,0,0,0
+                    group:format
+                    center_x: self.parent.center_x 
+                    center_y: self.parent.center_y *.65
+                    on_active: root.getFormat(self,self.active,"mla")
+                CheckBox:
+                    color: 0,0,0,0
+                    group:format
+                    center_x: self.parent.center_x *.8
+                    center_y: self.parent.center_y *.65
+                    on_active: root.getFormat(self,self.active,"mla")
+                CheckBox:
+                    color: 0,0,0,0
+                    group:format
+                    center_x: self.parent.center_x *1.2
+                    center_y: self.parent.center_y *.65
+                    on_active: root.getFormat(self,self.active,"mla")
+                
+            Button:
+                on_press: root.changeButton()
+                on_release: root.startCite()
+                size_hint: None,None
+                size: .9,.5
+                pos_hint: .5,.5
+                background_color: 0,0,0,0
+                Image:
+                    id: cite
+                    source: "images/wizard.png"
+                    center_x: self.parent.center_x 
+                    center_y: self.parent.center_y
+            Label: 
+                markup: True
+                id: apa
+                text: "\n\n[font=impact]APA Citation[/font]"
+                bold: True
+                font_size: 23
+                outline_color: 1,1,1
+                outline_width: 2
+                pos_hint: .2,.5
+                color: 189/255, 115/255, 240/255
+                background_color: 0,0,0,0
+                size: 0.5,0.5
+                pos_hint: {"y":.5}
+                CheckBox:
+                    color: 0,0,0,0
+                    group: format
+                    center_x: self.parent.center_x 
+                    center_y: self.parent.center_y *.65
+                    on_active: root.getFormat(self,self.active,"apa")
+                CheckBox:
+                    color: 0,0,0,0
+                    group: format
+                    center_x: self.parent.center_x * .95
+                    center_y: self.parent.center_y *.65
+                    on_active: root.getFormat(self,self.active,"apa")
+                CheckBox:
+                    color: 0,0,0,0
+                    group: format
+                    center_x: self.parent.center_x * 1.05
+                    center_y: self.parent.center_y *.65
+                    on_active: root.getFormat(self,self.active,"apa")
+    FloatLayout:
+        center: root.width / 2, root.height / 2
+        Button:
+            pos_hint: {"x":0}
+            size_hint: 1,1.4
+            background_color: (0,0,0,0)
+            on_press: root.changeButton()
+            on_release: 
+                root.startCite()
+
+              
+<MyWebsitePopup>
+    Label:
+        text:"Make sure you\ninclude websites!" 
+    Image:
+        size_hint: .7,.7
+        source: "images/wizard.png"
+<MyErrorPopup>
+    Label:
+        text:"Look in-text for: (***COULD NOT CITE***)\n                        and\nLook in list for: ***COULD NOT WORK MAGIC FOR:***\n\nManual citation is needed." 
+    Image:
+        size_hint: .6,.6
+        source: "images/wizard.png"
+
+
+
+
+
+                
+
+
+        
+
+        
+        
+        
+
+    
+        
+

@@ -1,0 +1,923 @@
+([('sourcerer.exe',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\sourcerer.exe',
+   'EXECUTABLE'),
+  ('sourcerer.exe.manifest',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\sourcerer.exe.manifest',
+   'BINARY'),
+  ('pywintypes39.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\pywin32_system32\\pywintypes39.dll',
+   'BINARY'),
+  ('pythoncom39.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\pywin32_system32\\pythoncom39.dll',
+   'BINARY'),
+  ('win32trace',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32ui',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_win32sysloader',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32api',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('win32com.shell.shell',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('_uuid',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('lxml.etree',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\etree.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml._elementpath',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\_elementpath.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml.html.clean',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\html\\clean.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml.builder',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\builder.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml.sax',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\sax.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml.html.diff',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\html\\diff.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml.objectify',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\objectify.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.scissor_instructions',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.fbo',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.gl_instructions',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.stencil_instructions',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.vertex_instructions',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.context_instructions',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.instructions',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy._event',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\_event.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy._clock',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\_clock.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.text.text_layout',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.texture',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.weakproxy',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.image._img_sdl2',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imagingtk',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._webp',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\PIL\\_webp.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imaging',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\PIL\\_imaging.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('PIL._imagingft',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\PIL\\_imagingft.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.opengl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.context',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.opengl_utils',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.transformation',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.properties',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\properties.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32file',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\win32\\win32file.pyd',
+   'EXTENSION'),
+  ('kivy.lib.gstplayer._gstplayer',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.vertex',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.window._window_sdl2',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.tesselator',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.shader',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.audio.audio_sdl2',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_gl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_glew',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.compiler',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.clipboard._clipboard_sdl2',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.svg',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.text._text_sdl2',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_sdl2',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.vbo',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_debug',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.buffer',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32gui',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\win32\\win32gui.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_mock',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.window.window_info',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('mfc140u.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Ethan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\share\\sdl2\\bin\\SDL2_image.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\share\\sdl2\\bin\\SDL2.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\share\\sdl2\\bin\\SDL2_mixer.dll',
+   'BINARY'),
+  ('glew32.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\share\\glew\\bin\\glew32.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\share\\sdl2\\bin\\SDL2_ttf.dll',
+   'BINARY'),
+  ('libfreetype-6.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\share\\sdl2\\bin\\libfreetype-6.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\share\\sdl2\\bin\\zlib1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Ethan\\Desktop\\Code Projects\\kivy\\Sourcerer '
+   'Executable\\build\\sourcerer\\base_library.zip',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isopub.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\tuftig.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\README.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.fs',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\glsl\\default.fs',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-128.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-16.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-256.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('kivy_install\\modules\\keybinding.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\keybinding.py',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme.atlas',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('kivy_install\\modules\\showborder.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\showborder.py',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.vs',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\glsl\\default.vs',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\README.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\responsive.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\template.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.fs',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\glsl\\header.fs',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\azerty.json',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.vs',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\glsl\\header.vs',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isobox.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('kivy_install\\modules\\recorder.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\recorder.py',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\default.tex',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\en_US.json',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('kivy_install\\data\\settings_kivy.json',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\settings_kivy.json',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\pep.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('kivy_install\\modules\\webdebugger.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\webdebugger.py',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('kivy_install\\modules\\inspector.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\inspector.py',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\template.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-32.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\s5defs.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-48.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\template.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaultshape.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.zip',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\docutils.sty',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-512.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\plain.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\fr_CH.json',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\math.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat1.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('kivy_install\\modules\\_webdebugger.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\_webdebugger.py',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isotech.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwerty.json',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme-0.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\console.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\console.py',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-24.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isonum.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwertz.json',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlingpage.tex',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('kivy_install\\modules\\joycursor.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\joycursor.py',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isodia.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlepage.tex',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de.json',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\keyboards\\de.json',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('kivy_install\\modules\\__init__.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__init__.py',
+   'DATA'),
+  ('docutils\\writers\\odf_odt\\styles.odt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('kivy_install\\modules\\monitor.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\monitor.py',
+   'DATA'),
+  ('kivy_install\\data\\images\\testpattern.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\images\\testpattern.png',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de_CH.json',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\minimal.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\console.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\html4css1.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('kivy_install\\modules\\touchring.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\touchring.py',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat2.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamso.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.gif',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('kivy_install\\modules\\screen.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\screen.py',
+   'DATA'),
+  ('kivy_install\\data\\images\\cursor.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\images\\cursor.png',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.png',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\glsl\\default.png',
+   'DATA'),
+  ('kivy_install\\modules\\cursor.py',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\modules\\cursor.py',
+   'DATA'),
+  ('kivy_install\\data\\images\\background.jpg',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\images\\background.jpg',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('kivy_install\\data\\style.kv',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\style.kv',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\xelatex.tex',
+   'c:\\users\\ethan\\desktop\\code '
+   'projects\\kivy\\kivy_venv\\lib\\site-packages\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA')],)
